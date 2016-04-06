@@ -1,7 +1,9 @@
 .parallax-container{
     height: 500px;
+    color: white;
 }
 
 div {
     border: 1 px solid black;
 }
+
