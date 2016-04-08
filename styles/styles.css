@@ -7,3 +7,11 @@ div {
     border: 1 px solid black;
 }
 
+#contact{
+     word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}
