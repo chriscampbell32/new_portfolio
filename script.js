@@ -1,5 +1,7 @@
 $(document).ready(function(){
+    //parallax effect
     $('.parallax').parallax();
 
-    //scroll spy?
-});
+    $('.scrollspy').scrollSpy();
+  });
+        
